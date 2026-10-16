@@ -1,3 +1,7 @@
+# NEW VERSION
+https://github.com/infinyFox936/basic-banking-system-v2.0
+
+---
 # Basic Banking System
  
 a basic banking system that can store diffrent banking accounts.
